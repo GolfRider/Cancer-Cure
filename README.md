@@ -1,4 +1,4 @@
-# Cancer-Cure
+## Cancer-Cure
 This is just my personal exploration on the following:
   1.  Understanding why cancer occurs 
   2.  Treatment/therapies discovered/explored over the years
