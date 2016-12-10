@@ -12,3 +12,31 @@ This is just my personal exploration on the following:
   9.  I can't withstand the emotional trauma it causes to everyone around
   10. I firmly believe THERE HAS TO BE A WAY OUT in overrcoming cancer
   11. NOTE: I am NOT a Doctor, I am AN Engineer, and this is my ATTEMPT.
+  
+  
+  Some thoughts on the web-app:
+  
+  Person
+    Name: First Name , Last Name
+    Age:    years
+    Location: 
+    First Diagnosed:
+    Primary: 
+
+    Pic [If possoble] clean text , font
+
+    5-7 questions
+      1. How did you overcome the challenges
+      1. How do you keep yourslef postive happy ?
+      2. How do you keep yourself daily motivated ?
+      22. Did you do any experiemnt,tried different foods, supplements, alternate treatments, how was the result ?
+      
+      3. What is your diet plan ?
+      4. Do you excecise, go to gym or yoga, mediation ?
+      5. What is your suggestions to the next guys ?
+
+
+      sharing widgets
+   
+   
+   
